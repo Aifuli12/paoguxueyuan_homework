@@ -1,4 +1,6 @@
-package com.aifuli.singleton;
+package com.aifuli.singleton.hungry;
+
+import com.aifuli.singleton.hungry.Hungry;
 
 import java.util.Collections;
 import java.util.HashSet;

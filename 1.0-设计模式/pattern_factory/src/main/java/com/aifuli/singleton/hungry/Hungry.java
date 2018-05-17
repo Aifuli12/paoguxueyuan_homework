@@ -1,4 +1,4 @@
-package com.aifuli.singleton;
+package com.aifuli.singleton.hungry;
 
 public class Hungry {
     private Hungry() {
